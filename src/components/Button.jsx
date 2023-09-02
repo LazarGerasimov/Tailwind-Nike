@@ -1,6 +1,10 @@
 const Button = () => {
   return (
-    <div>Button</div>
+    <button className="">
+        Click me
+
+        {/* <img src="" alt="" /> */}
+    </button>
   );
 };
 
