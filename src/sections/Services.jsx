@@ -1,3 +1,4 @@
+import ServiceCard from '../components/ServiceCard';
 import { services } from '../constants';
 
 const Services = () => {
